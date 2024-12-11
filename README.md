@@ -2,12 +2,6 @@
 
 This is the personal portfolio website of **Daniel Aldreen Manjares**, a 19-year-old Computer Science student and software engineer from Batangas, Philippines. The website showcases my skills, projects, and contributions to various fields, including UI design, front-end development, software testing, and customer service.
 
-## Demo
-
-You can view the live demo of the website [here](#). 
-
-![Portfolio Website Screenshot](img.jpg)
-
 ## Features
 
 - **Home Section**: Introduces the website with a brief description and links to my social profiles.
@@ -20,7 +14,6 @@ You can view the live demo of the website [here](#).
 
 - **HTML**: Structure and content of the webpage.
 - **CSS**: Styling and layout.
-- **JavaScript**: Interactive elements.
 - **Boxicons**: Used for social media icons.
   
 ## Installation
