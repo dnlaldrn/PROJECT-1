@@ -51,10 +51,6 @@ If you want to contribute to this project, you are welcome to fork the repositor
 3. Commit your changes and push the branch.
 4. Open a pull request to the main branch.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/daniel-aldreen-manjares-85749933a/)
